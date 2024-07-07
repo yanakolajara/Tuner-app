@@ -15,7 +15,6 @@ function App() {
   const newPage = () => navigate('/songs/new');
   return (
     <div className='App'>
-      <p>fdsaf</p>
       <nav id='topNav'>
         <img src={logo} alt='logo' />
         <h1>Tuner</h1>
